@@ -55,6 +55,6 @@ const SanValentinHeart = (colorHeart = 'red') => {
     document.head.appendChild(heartStyle);
 }
 
-modules.export = {
+module.exports = {
     SanValentinHeart
 }
