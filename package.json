@@ -1,0 +1,16 @@
+{
+  "name": "san-valentin-hearts",
+  "version": "1.0.0",
+  "description": "Simple function to add hearts throughout the thematic website: Valentine's Day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "san",
+    "valentin",
+    "hearts"
+  ],
+  "author": "raishid",
+  "license": "MIT"
+}
