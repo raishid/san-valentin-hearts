@@ -1,6 +1,6 @@
 {
   "name": "san-valentin-hearts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple function to add hearts throughout the thematic website: Valentine's Day",
   "main": "src/index.js",
   "scripts": {
